@@ -3,7 +3,7 @@
     "titulo": "Magic: The Gathering Comprehensive Rules",
     "autor": "Wizards of the Coast",
     "ano": 2026,
-    "url_pdf": "https://media.wizards.com/2026/downloads/MagicCompRules%2020260116.pdf",
+    "url": "https://magic.wizards.com/en/rules",
     "resumo": "Regras abrangentes e oficiais do Magic: The Gathering. Documento fundamental para o agente consultar a lógica exata de funcionamento da pilha, prioridade, sequenciamento de fases e interações de regras complexas.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -14,7 +14,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "regulamento",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -22,7 +22,7 @@
     "titulo": "Magic Tournament Rules (MTR)",
     "autor": "Wizards of the Coast / Magic Judges",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Magic_TournamentRules.pdf",
+    "url": "https://blogs.magicjudges.org/rules/mtr/",
     "resumo": "Regras oficiais para torneios de MTG. O agente utilizará este documento para esclarecer dúvidas sobre procedimentos de partidas em eventos, atalhos de jogo (shortcuts), procedimentos de mulligan e conduta dos jogadores.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -33,7 +33,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "regulamento",
-      "fonte": "wizards.com",
+      "fonte": "blogs.magicjudges.org",
       "licenca": "open_access"
     }
   },
@@ -41,7 +41,7 @@
     "titulo": "Infraction Procedure Guide (IPG)",
     "autor": "Wizards of the Coast / Magic Judges",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Magic_InfractionProcedureGuide.pdf",
+    "url": "https://blogs.magicjudges.org/rules/ipg/",
     "resumo": "Guia de procedimentos para infrações em torneios de nível Competitivo e Profissional. Utilizado pelo agente para explicar penalidades (Warning, Game Loss) e correções de estado de jogo impostas por juízes.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -52,7 +52,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "blogs.magicjudges.org",
       "licenca": "open_access"
     }
   },
@@ -60,7 +60,7 @@
     "titulo": "Judging at Regular Rules Enforcement Level (JAR)",
     "autor": "Wizards of the Coast / Magic Judges",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/Judging_at_Regular_REL.pdf",
+    "url": "https://blogs.magicjudges.org/rules/jar/",
     "resumo": "Orientação de arbitragem para eventos casuais (como Friday Night Magic). Importante para o agente explicar como resolver erros comuns de jogo sem aplicar penalidades rígidas de torneios profissionais.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -71,7 +71,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "blogs.magicjudges.org",
       "licenca": "open_access"
     }
   },
@@ -79,7 +79,7 @@
     "titulo": "Guide to Magic: The Gathering Formats",
     "autor": "Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/MTG_Formats_Overview.pdf",
+    "url": "https://magic.wizards.com/en/formats",
     "resumo": "Visão geral oficial de todos os formatos de jogo (Standard, Pioneer, Modern, Legacy, Vintage e Pauper), detalhando construção de deck, banimentos e legalidade de coleções.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -90,7 +90,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -98,7 +98,7 @@
     "titulo": "Official Commander Rules & Format Overview",
     "autor": "Commander Rules Committee / Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Commander_Rules_Overview.pdf",
+    "url": "https://mtgcommander.net/index.php/rules/",
     "resumo": "Regras específicas do formato Commander/EDH, incluindo zonas de jogo (Zona de Comando), Dano de Comandante, taxa de comandante (Commander Tax) e restrições da regra de cópia única (Singleton).",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -109,7 +109,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "regulamento",
-      "fonte": "wizards.com",
+      "fonte": "mtgcommander.net",
       "licenca": "open_access"
     }
   },
@@ -117,8 +117,8 @@
     "titulo": "MTG Basic Rulebook and Beginner's Guide",
     "autor": "Wizards of the Coast",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/Magic_Basic_Rulebook_EN.pdf",
-    "resumo": "Manual introdutório com ilustrações que explicam os conceitos básicos: anatomia de uma carta, curva de mana, tipos de permanentes e fases do turno para novos jogadores.",
+    "url": "https://magic.wizards.com/en/how-to-play",
+    "resumo": "Manual introdutório que explica os conceitos básicos: anatomia de uma carta, curva de mana, tipos de permanentes e fases do turno para novos jogadores.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -128,7 +128,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "manual",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -136,7 +136,7 @@
     "titulo": "Comprehensive Keyword Mechanics Dictionary",
     "autor": "Wizards of the Coast / MTG Rules Team",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/MTG_Keywords_Glossary.pdf",
+    "url": "https://magic.wizards.com/en/rules",
     "resumo": "Dicionário de palavras-chave estáticas, ativadas e disparadas (Flying, Trample, Lifelink, Ward, Indestructible, Hexproof). Serve de referência direta para o agente definir mecânicas.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -147,7 +147,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "manual",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -155,7 +155,7 @@
     "titulo": "Digital Rules Supplement for MTG Arena",
     "autor": "Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/MTGA_Digital_Rules_Supplement.pdf",
+    "url": "https://magic.wizards.com/en/mtgarena",
     "resumo": "Suplemento de regras específicas do MTG Arena, incluindo mecânicas exclusivas do formato Alchemy (Draft do Grimório, Conjurar, Perpetuar) e prioridade automatizada por temporizadores.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -166,7 +166,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "manual",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -174,7 +174,7 @@
     "titulo": "Two-Headed Giant Format Rules",
     "autor": "Wizards of the Coast",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/Two_Headed_Giant_Rules.pdf",
+    "url": "https://magic.wizards.com/en/formats/two-headed-giant",
     "resumo": "Regras para o formato em dupla Gigante de Duas Cabeças (2HG), abrangendo vida compartilhada, fase de combate unificada e interações de dano/bloqueio simultâneos.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -185,7 +185,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "regulamento",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -193,8 +193,8 @@
     "titulo": "Planeswalker Mechanics & Rules Guide",
     "autor": "Wizards of the Coast",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/Planeswalker_Rules_Guide.pdf",
-    "resumo": "Manual dedicado ao funcionamento das permanentes do tipo Planeswalker: marcadores de lealdade, ativação de habilidades de lealdade, regras de redirecionamento de dano e combate.",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Manual dedicado ao funcionamento das permanentes do tipo Planeswalker: marcadores de lealdade, ativação de habilidades de lealdade, regras de redirecionamento de dano e combate (Seção 306 do CR).",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -204,7 +204,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -212,8 +212,8 @@
     "titulo": "Sagas and Class Enchantments Mechanics Overview",
     "autor": "Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Sagas_and_Classes_Rules.pdf",
-    "resumo": "Explicação detalhada sobre o funcionamento de Sagas (marcadores do tempo, capítulos e sacrifício automático) e Encantamentos do tipo Classe (níveis e custos de ativação).",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Explicação detalhada sobre o funcionamento de Sagas (marcadores do tempo, capítulos e sacrifício automático) e Encantamentos do tipo Classe (níveis e custos de ativação - Seção 714 do CR).",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -223,7 +223,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -231,8 +231,8 @@
     "titulo": "Modal Double-Faced Cards (MDFCs) and Transforming Rules",
     "autor": "Wizards of the Coast",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/MDFC_Transforming_Rules.pdf",
-    "resumo": "Instruções de regras sobre cartas de dupla face modais e transformáveis: regras de conjurar cada face, custo de mana convertido (CMC) em cada zona e cópias.",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Instruções de regras sobre cartas de dupla face modais e transformáveis: regras de conjurar cada face, custo de mana convertido (CMC) em cada zona e cópias (Seção 712 do CR).",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -242,7 +242,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -250,7 +250,7 @@
     "titulo": "Pauper Format Official Guidelines & Banned List",
     "autor": "Pauper Format Panel / Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Pauper_Format_Rules.pdf",
+    "url": "https://magic.wizards.com/en/formats/pauper",
     "resumo": "Regras do formato Pauper (cartas lançadas como comuns em papel ou digital), critérios de legalidade por raridade e lista de cartas banidas vigentes.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -261,16 +261,16 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "regulamento",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
   {
     "titulo": "Bolas's Citadel and Alternative Casting Costs Guide",
-    "autor": "MTG Rules Advisory Group",
+    "autor": "MTG Rules Advisory Group / Wizards of the Coast",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/Alternative_Costs_Rules.pdf",
-    "resumo": "Documento técnico explicando custos alternativos de magia (pagar vida em vez de mana, Evocar, Sobrecarga) e como eles interagem com restrições e custos adicionais.",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Documento técnico explicando custos alternativos de magia (pagar vida em vez de mana, Evocar, Sobrecarga) e como eles interagem com restrições e custos adicionais (Seção 118 do CR).",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -280,7 +280,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "manual",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -288,7 +288,7 @@
     "titulo": "Draft and Sealed Limited Formats Guide",
     "autor": "Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Limited_Formats_Guide.pdf",
+    "url": "https://magic.wizards.com/en/formats/booster-draft",
     "resumo": "Manual de procedimentos para formatos Limitados (Booster Draft e Selado): montagem de deck de 40 cartas mínimo, gestão de terrenos básicos da pool e cartas reserva (sideboard).",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -299,16 +299,16 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
   {
     "titulo": "Layer System in Magic: The Gathering Explained",
-    "autor": "Magic Judges Academy",
+    "autor": "Magic Judges Academy / Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/Layer_System_Technical_Guide.pdf",
-    "resumo": "Guia técnico avançado explicando o Sistema de Camadas (Layers 1 a 7) para determinar os efeitos contínuos aplicados a permanentes quando múltiplos efeitos ocorrem simultaneamente.",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Guia técnico avançado explicando o Sistema de Camadas (Layers 1 a 7 - Seção 613 do CR) para determinar os efeitos contínuos aplicados a permanentes quando múltiplos efeitos ocorrem simultaneamente.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -318,7 +318,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "manual",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -326,8 +326,8 @@
     "titulo": "Replacement and Prevention Effects Manual",
     "autor": "Wizards of the Coast Rules Team",
     "ano": 2024,
-    "url_pdf": "https://media.wizards.com/2024/downloads/Replacement_Effects_Manual.pdf",
-    "resumo": "Manual explicativo sobre efeitos de substituição e prevenção (palavras-chave como 'em vez disso' ou 'prevenir'). Detalha a escolha do afeto/controlador na ordem de aplicação.",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Manual explicativo sobre efeitos de substituição e prevenção (Seções 614 e 615 do CR). Detalha a escolha do jogador afetado ou controlador na ordem de aplicação dos efeitos.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -337,7 +337,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "manual",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -345,8 +345,8 @@
     "titulo": "State-Based Actions (SBAs) Official Reference",
     "autor": "Wizards of the Coast",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/State_Based_Actions_Reference.pdf",
-    "resumo": "Guia de referência para Ações Baseadas no Estado (SBA): checagem automática de dano letal, resistência zero ou menor, marcadores +1/+1 e -1/-1 opostos, e regras de lenda.",
+    "url": "https://magic.wizards.com/en/rules",
+    "resumo": "Guia de referência para Ações Baseadas no Estado (Seção 704 do CR): checagem automática de dano letal, resistência zero ou menor, marcadores +1/+1 e -1/-1 opostos, e regras de lenda.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
     "embedding_status": "pending",
@@ -356,7 +356,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "guia",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   },
@@ -364,7 +364,7 @@
     "titulo": "Lore and Multiverse Planes Summary Guide",
     "autor": "Wizards of the Coast Franchise Team",
     "ano": 2025,
-    "url_pdf": "https://media.wizards.com/2025/downloads/MTG_Planes_and_Lore_Guide.pdf",
+    "url": "https://magic.wizards.com/en/story",
     "resumo": "Guia de referência sobre a história e os planos do Multiverso de MTG (Ravnica, Innistrad, Dominaria, Eldraine, etc.), utilizado pelo agente para responder perguntas sobre a história do jogo.",
     "data_insercao": "2026-08-24T18:00:00.000Z",
     "status": "Pendente",
@@ -375,7 +375,7 @@
       "idioma": "en",
       "contexto_educacional": "formacao_profissional",
       "tipo_documento": "relatorio",
-      "fonte": "wizards.com",
+      "fonte": "magic.wizards.com",
       "licenca": "open_access"
     }
   }
