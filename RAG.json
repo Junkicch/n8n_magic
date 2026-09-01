@@ -1,0 +1,124 @@
+{
+  "artigos": [
+    {
+      "titulo": "Magic: The Gathering Comprehensive Rules",
+      "autor": "Wizards of the Coast",
+      "ano": 2026,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Magic Tournament Rules (MTR)",
+      "autor": "Wizards of the Coast / Magic Judges",
+      "ano": 2025,
+      "link_pdf": "https://blogs.magicjudges.org/rules/mtr/"
+    },
+    {
+      "titulo": "Infraction Procedure Guide (IPG)",
+      "autor": "Wizards of the Coast / Magic Judges",
+      "ano": 2025,
+      "link_pdf": "https://blogs.magicjudges.org/rules/ipg/"
+    },
+    {
+      "titulo": "Judging at Regular Rules Enforcement Level (JAR)",
+      "autor": "Wizards of the Coast / Magic Judges",
+      "ano": 2024,
+      "link_pdf": "https://blogs.magicjudges.org/rules/jar/"
+    },
+    {
+      "titulo": "Guide to Magic: The Gathering Formats",
+      "autor": "Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/formats"
+    },
+    {
+      "titulo": "Official Commander Rules & Format Overview",
+      "autor": "Commander Rules Committee / Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://mtgcommander.net/index.php/rules/"
+    },
+    {
+      "titulo": "MTG Basic Rulebook and Beginner's Guide",
+      "autor": "Wizards of the Coast",
+      "ano": 2024,
+      "link_pdf": "https://magic.wizards.com/en/how-to-play"
+    },
+    {
+      "titulo": "Comprehensive Keyword Mechanics Dictionary",
+      "autor": "Wizards of the Coast / MTG Rules Team",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Digital Rules Supplement for MTG Arena",
+      "autor": "Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/mtgarena"
+    },
+    {
+      "titulo": "Two-Headed Giant Format Rules",
+      "autor": "Wizards of the Coast",
+      "ano": 2024,
+      "link_pdf": "https://magic.wizards.com/en/formats/two-headed-giant"
+    },
+    {
+      "titulo": "Planeswalker Mechanics & Rules Guide",
+      "autor": "Wizards of the Coast",
+      "ano": 2024,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Sagas and Class Enchantments Mechanics Overview",
+      "autor": "Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Modal Double-Faced Cards (MDFCs) and Transforming Rules",
+      "autor": "Wizards of the Coast",
+      "ano": 2024,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Pauper Format Official Guidelines & Banned List",
+      "autor": "Pauper Format Panel / Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/formats/pauper"
+    },
+    {
+      "titulo": "Bolas's Citadel and Alternative Casting Costs Guide",
+      "autor": "MTG Rules Advisory Group / Wizards of the Coast",
+      "ano": 2024,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Draft and Sealed Limited Formats Guide",
+      "autor": "Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/formats/booster-draft"
+    },
+    {
+      "titulo": "Layer System in Magic: The Gathering Explained",
+      "autor": "Magic Judges Academy / Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Replacement and Prevention Effects Manual",
+      "autor": "Wizards of the Coast Rules Team",
+      "ano": 2024,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "State-Based Actions (SBAs) Official Reference",
+      "autor": "Wizards of the Coast",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/rules"
+    },
+    {
+      "titulo": "Lore and Multiverse Planes Summary Guide",
+      "autor": "Wizards of the Coast Franchise Team",
+      "ano": 2025,
+      "link_pdf": "https://magic.wizards.com/en/story"
+    }
+  ]
+}
