@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>MTG Virtual Judge — Aplicação Consumidora</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background: #121212; color: #eee; max-width: 720px; margin: 40px auto; padding: 20px; }
+    h1 { color: #f59e0b; }
+    #chat { background: #1e1e1e; border: 1px solid #333; border-radius: 8px; padding: 16px; height: 420px; overflow-y: auto; margin-bottom: 12px; white-space: pre-wrap; }
+    .msg-user { color: #60a5fa; margin: 8px 0; font-weight: bold; }
+    .msg-bot { color: #e5e7eb; margin: 12px 0 20px 0; border-left: 3px solid #f59e0b; padding-left: 12px; }
+    .row { display: flex; gap: 8px; }
+    input { flex: 1; padding: 12px; border-radius: 6px; border: 1px solid #444; background: #262626; color: #fff; }
+    button { padding: 12px 20px; background: #f59e0b; color: #000; font-weight: bold; border: none; border-radius: 6px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>🧙‍♂️ MTG Virtual Judge (Cliente Webhook)</h1>
+  <div id="chat">Bem-vindo! Digite sua dúvida sobre regras ou cartas de Magic: The Gathering.</div>
+  <div class="row">
+    <input type="text" id="pergunta" placeholder="Ex: O que a carta Ruxa faz?" />
+    <button onclick="enviar()">Enviar</button>
+  </div>
+  <script>
+    const WEBHOOK_URL = 'https://n8n.incluc0de.com.br/webhook/chat-agente';
+    const sessionId = 'web-' + Math.random().toString(36).substring(2, 9);
+
+    async function enviar() {
+      const input = document.getElementById('pergunta');
+      const chat = document.getElementById('chat');
+      const texto = input.value.trim();
+      if (!texto) return;
+
+      chat.innerHTML += `\n\n<div class="msg-user">Você: ${texto}</div>`;
+      input.value = '';
+      chat.scrollTop = chat.scrollHeight;
+
+      try {
+        const res = await fetch(WEBHOOK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ chatInput: texto, sessionId })
+        });
+        const data = await res.json();
+        const resposta = Array.isArray(data) ? data[0]?.output : data.output;
+        chat.innerHTML += `<div class="msg-bot">${resposta || JSON.stringify(data)}</div>`;
+      } catch (err) {
+        chat.innerHTML += `<div class="msg-bot">Erro ao consultar o Webhook: ${err.message}</div>`;
+      }
+      chat.scrollTop = chat.scrollHeight;
+    }
+  </script>
+</body>
+</html>
